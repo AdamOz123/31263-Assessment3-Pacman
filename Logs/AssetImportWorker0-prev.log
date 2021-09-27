@@ -1,0 +1,195 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.4f1 (becced5a802b) revision 12504301'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16286 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Adam Oz/Desktop/Assessment3/31263-Assessment3-Pacman
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61576
+Successfully changed project path to: C:/Users/Adam Oz/Desktop/Assessment3/31263-Assessment3-Pacman
+C:/Users/Adam Oz/Desktop/Assessment3/31263-Assessment3-Pacman
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 66.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Adam Oz/Desktop/Assessment3/31263-Assessment3-Pacman/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   30.0.14.7168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003647 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 75.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.155 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 67.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.859 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2239.
+Total: 3.426600 ms (FindLiveObjects: 0.307400 ms CreateObjectMapping: 0.119900 ms MarkObjects: 2.778300 ms  DeleteObjects: 0.216700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Visual/1 - Outside Corner.png
+  artifactKey: Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/1 - Outside Corner.png using Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1a86a40b2ee88a65c1926b65845660') in 0.265104 seconds
+  Import took 0.270930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.082726 seconds.
+  path: Assets/Visual/Fat Man Facing Down.png
+  artifactKey: Guid(f372f52987905494e80b5f22b6a8392a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Fat Man Facing Down.png using Guid(f372f52987905494e80b5f22b6a8392a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8eaa5d0a68208a573782b3f0bb2e9c') in 0.038058 seconds
+  Import took 0.044652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.044768 seconds.
+  path: Assets/Visual/Fat Man Facing Down Full Animation.png
+  artifactKey: Guid(9ec0706d1a98e7f40866fd2186398dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Fat Man Facing Down Full Animation.png using Guid(9ec0706d1a98e7f40866fd2186398dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec1986f2835588851b4cfcdc2ed5787') in 0.034034 seconds
+  Import took 0.039918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000915 seconds.
+  path: Assets/Visual/Fat Man Facing Down Full Animation.png
+  artifactKey: Guid(9ec0706d1a98e7f40866fd2186398dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Fat Man Facing Down Full Animation.png using Guid(9ec0706d1a98e7f40866fd2186398dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec1986f2835588851b4cfcdc2ed5787') in 0.023786 seconds
+  Import took 0.030993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.028237 seconds.
+  path: Assets/Visual/Nurse2 Facing Down Scared State.png
+  artifactKey: Guid(c3ae609f3d4b0f94d9e8000222b5939f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Nurse2 Facing Down Scared State.png using Guid(c3ae609f3d4b0f94d9e8000222b5939f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bcc8fd0ee56a98e1f0e5435747e5997') in 0.019698 seconds
+  Import took 0.024009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.152406 seconds.
+  path: Assets/Visual/Nurse1 Facing Down Dead State.png
+  artifactKey: Guid(77f120f648ced5b4cad4f6f4fb54e982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Nurse1 Facing Down Dead State.png using Guid(77f120f648ced5b4cad4f6f4fb54e982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda4a553b1db41acc3b224e2ec446538') in 0.037293 seconds
+  Import took 0.044008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000816 seconds.
+  path: Assets/Visual/Nurse1 Facing Down Dead State.png
+  artifactKey: Guid(77f120f648ced5b4cad4f6f4fb54e982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Nurse1 Facing Down Dead State.png using Guid(77f120f648ced5b4cad4f6f4fb54e982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda4a553b1db41acc3b224e2ec446538') in 0.014240 seconds
+  Import took 0.019505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.769795 seconds.
+  path: Assets/Visual/Nurse1 Facing Down Normal State.png
+  artifactKey: Guid(a41bc2876bfb0784786c66ceb5f45e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Nurse1 Facing Down Normal State.png using Guid(a41bc2876bfb0784786c66ceb5f45e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35da754cbd719bb6674a27587d890bef') in 0.019176 seconds
+  Import took 0.023892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.919598 seconds.
+  path: Assets/Visual/Nurse2 Facing Down Dead State.png
+  artifactKey: Guid(f2c17273ad610ce458ad51b63e256b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Nurse2 Facing Down Dead State.png using Guid(f2c17273ad610ce458ad51b63e256b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e8993e544e558cde9e0dda06c0d21c') in 0.020960 seconds
+  Import took 0.024928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.723135 seconds.
+  path: Assets/Visual/Nurse2 Facing Down Normal State.png
+  artifactKey: Guid(2e7b0db4c75be20488d22efd4413d056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Nurse2 Facing Down Normal State.png using Guid(2e7b0db4c75be20488d22efd4413d056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3d334414dc9767c7cf22a336a80bb8') in 0.019354 seconds
+  Import took 0.025979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.279053 seconds.
+  path: Assets/Visual/Power Pellet Burger.png
+  artifactKey: Guid(1012f7eb1cbb3894db422a805af937d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/Power Pellet Burger.png using Guid(1012f7eb1cbb3894db422a805af937d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c7656b811d8a789e424a6d341f5c06') in 0.019502 seconds
+  Import took 0.025293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.261506 seconds.
+  path: Assets/Visual/5 - Empty Space Standard Pellet.png
+  artifactKey: Guid(3da3af84d8fb30149a9f208c799405e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/5 - Empty Space Standard Pellet.png using Guid(3da3af84d8fb30149a9f208c799405e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9120188d82cb30e3d8e3317ee6da7e8') in 0.025586 seconds
+  Import took 0.029733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1841.312447 seconds.
+  path: Assets/Visual/1 - Outside Corner.png
+  artifactKey: Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/1 - Outside Corner.png using Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583ca9fa5885da46e4f08ec8fe49bc6d') in 0.039667 seconds
+  Import took 0.047531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Visual/1 - Outside Corner.png
+  artifactKey: Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/1 - Outside Corner.png using Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583ca9fa5885da46e4f08ec8fe49bc6d') in 0.017416 seconds
+  Import took 0.022215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.660190 seconds.
+  path: Assets/Visual/1 - Outside Corner.png
+  artifactKey: Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual/1 - Outside Corner.png using Guid(2720a4affb39f894d98d39063d6a2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ec3f0bfce5d0b99eb3dd23e7f5e394b') in 0.031671 seconds
+  Import took 0.038063 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
