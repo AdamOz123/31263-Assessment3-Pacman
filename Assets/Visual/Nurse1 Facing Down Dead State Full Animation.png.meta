@@ -56,7 +56,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -118,12 +118,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 128
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -139,12 +139,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 80
         y: 128
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,12 +160,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 144
         y: 128
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 64
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,12 +202,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_4
       rect:
         serializedVersion: 2
-        x: 64
+        x: 80
         y: 64
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -223,12 +223,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_5
       rect:
         serializedVersion: 2
-        x: 128
+        x: 144
         y: 64
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -244,12 +244,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_6
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 0
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -265,12 +265,12 @@ TextureImporter:
       name: Nurse1 Facing Down Dead State Full Animation_7
       rect:
         serializedVersion: 2
-        x: 64
+        x: 80
         y: 0
-        width: 64
+        width: 32
         height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
