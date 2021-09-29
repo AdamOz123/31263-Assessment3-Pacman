@@ -255,7 +255,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tiles:
-  - {fileID: 0}
+  - {fileID: 2722392233165356321, guid: c065599706cf3b741bd97df183d40765, type: 3}
   - {fileID: 2986638452816753939, guid: 825674bd7a19f654fa56c518c32d7165, type: 3}
   - {fileID: 9163147447269808127, guid: e4548e910d7669e4a9aa72f8b0881b5e, type: 3}
   - {fileID: 3201302310950236513, guid: 58a1c9226bd82de46a1ce37bdded07e6, type: 3}
