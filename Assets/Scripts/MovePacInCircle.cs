@@ -31,13 +31,15 @@ public class MovePacInCircle : MonoBehaviour
         locations[3] = new Vector3(x1, y2, 0.0f);
         Speed = 1.0f;
         MusicPlayer.clip = noCollisionSound;
+
+        fatMan.transform.Rotate(0, 0, 90);
     }
 
     
     private void FixedUpdate()
     {
         lerpFactor += Time.deltaTime * Speed;
-
+        
         if (lerpFactor > 1.0)
         {
             while (lerpFactor > 1.0)
@@ -63,6 +65,14 @@ public class MovePacInCircle : MonoBehaviour
             fatMan.transform.position = Vector3.Lerp(locations[counter], locations[counter + 1], lerpFactor);
             if (MusicPlayer.isPlaying == false)
                 MusicPlayer.Play();
+            if (fatMan.transform.position == locations[0])
+                fatMan.transform.Rotate(0, 0, -90);
+            if (fatMan.transform.position == locations[1])
+                fatMan.transform.Rotate(0, 0, 90);
+            if (fatMan.transform.position == locations[2])
+                fatMan.transform.Rotate(0, 0, 90);
+            if (fatMan.transform.position == locations[3])
+                fatMan.transform.Rotate(0, 0, -90);
         }
             
     }
