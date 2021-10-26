@@ -672,6 +672,7 @@ GameObject:
   - component: {fileID: 1026506709}
   - component: {fileID: 1026506708}
   - component: {fileID: 1026506710}
+  - component: {fileID: 1026506711}
   m_Layer: 0
   m_Name: AudioSource
   m_TagString: Untagged
@@ -796,7 +797,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1026506707}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb414d7540232cb4689925c3d0031d33, type: 3}
   m_Name: 
@@ -804,6 +805,20 @@ MonoBehaviour:
   MusicPlayer: {fileID: 1026506708}
   IntroMusic: {fileID: 8300000, guid: 6a3cd7f43d1a26e4c962dc4a1003f1b9, type: 3}
   NormalMusic: {fileID: 8300000, guid: 2c04e53a8046e474284734ec7ce218b5, type: 3}
+--- !u!114 &1026506711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026506707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e3f9b062049c6a439900104820d6616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MusicPlayer: {fileID: 1026506708}
+  IntroMusic: {fileID: 8300000, guid: 2c04e53a8046e474284734ec7ce218b5, type: 3}
 --- !u!1 &1112458583
 GameObject:
   m_ObjectHideFlags: 0
@@ -7793,7 +7808,7 @@ Tilemap:
       - {fileID: -5322110348693585584, guid: b0cf022ca3867f64f9bb2f0a79458931, type: 3}
       - {fileID: 397445190738871051, guid: b0cf022ca3867f64f9bb2f0a79458931, type: 3}
       - {fileID: 4788366608985324785, guid: b0cf022ca3867f64f9bb2f0a79458931, type: 3}
-      m_AnimationSpeed: 12
+      m_AnimationSpeed: 12.000001
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -7, y: 4, z: 0}
